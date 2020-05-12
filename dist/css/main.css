@@ -2,11 +2,15 @@ body {
   background: #ccc;
 }
 
-h1 {
+body h1 {
+  color: red;
+}
+
+body h2 {
   color: #fff;
 }
 
-h3 {
+body h3 {
   color: #fff;
 }
 

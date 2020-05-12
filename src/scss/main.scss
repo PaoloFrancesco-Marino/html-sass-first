@@ -1,18 +1,23 @@
 // Vars
  
-$color_title: #fff;
+$paragraph_title: #fff;
+$h1_title: red;
 $bg_color: #ccc;
-
 
 // General Styles
 body {
     background: $bg_color;
-}
 
-h1 {
-    color: $color_title;
-}
+    h1 {
+        color: $h1_title;
+    }
 
-h3 {
-    color: $color_title;
+    h2 {
+        color: $paragraph_title;
+    }
+    
+    h3 {
+        color:  $paragraph_title;
+    }
+    
 }
